@@ -1,0 +1,1 @@
+A test Blazor Web App that queries the test FruitAPI 
